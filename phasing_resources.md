@@ -1,2 +1,9 @@
-# P
-Repository of resources for a bunch of different tasks
+# Phasing resources
+
+### Pedigree-based phasing
+
+
+### Population-based phasing
+
+
+### Read-based phasing
