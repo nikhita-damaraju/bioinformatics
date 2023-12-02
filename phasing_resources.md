@@ -1,7 +1,7 @@
 # Variant callers and phasing software
 
 ## Variant callers
-1. Short-read: [GATK]([https://gatk.broadinstitute.org/hc/en-us](https://gatk.broadinstitute.org/hc/en-us), VarScan (https://varscan.sourceforge.net), [MuTect](https://gatk.broadinstitute.org/hc/en-us/articles/360037593851-Mutect2), and [LoFreq](https://csb5.github.io/lofreq/)
+1. Short-read: [GATK](https://gatk.broadinstitute.org/hc/en-us), [VarScan](https://varscan.sourceforge.net), [MuTect](https://gatk.broadinstitute.org/hc/en-us/articles/360037593851-Mutect2), and [LoFreq](https://csb5.github.io/lofreq/)
 2. Long-read: [Clair3](https://github.com/HKU-BAL/Clair3), [DeepVariant](https://github.com/google/deepvariant)
 
 ## Phasing software
