@@ -2,7 +2,7 @@
 
 Over time, the list of steps to set up SSHFS to access remote file systems has changed. Here are some steps that worked for me:
 1. Install Homebrew via
-   - `$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`.
+   - `$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
    - <a href = "https://mac.install.guide/homebrew/3">More homebrew installation instructions</a>
 3. Follow instructions that are a part of "Enable System Extensions" in this: https://eengstrom.github.io/musings/install-macfuse-and-sshfs-on-macos-monterey
 2. Install MacFuse via https://osxfuse.github.io
