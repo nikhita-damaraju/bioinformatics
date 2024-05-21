@@ -1,4 +1,4 @@
-#steps to set up SSHFS on Mac OS (as of May 2024)
+# Setting up SSHFS on Mac OS 
 
 Over time, the list of steps to set up SSHFS to access remote file systems has changed. Here are some steps that worked for me:
 1. Install Homebrew via
@@ -11,7 +11,3 @@ Over time, the list of steps to set up SSHFS to access remote file systems has c
 5. Type `which sshfs` to check installation
 6. Usage
 - `sshfs -p <port_ID> remote_file_system_username@IP_address:/folder/ ~/<location_of_folder_on_local_desktop>`
-
-
-
-
