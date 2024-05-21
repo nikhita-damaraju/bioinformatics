@@ -7,3 +7,4 @@ This is a repository of resources and links to useful software for different tas
 ## Table of contents
 <br>[Variant calling and phasing software](https://github.com/nikhita-damaraju/bioinformatics/blob/main/phasing_resources.md)
 <br>[Genome Informatics 2023](https://github.com/nikhita-damaraju/bioinformatics/blob/main/genome_informatics.md)
+<br>[Installing SSHFS](https://github.com/nikhita-damaraju/bioinformatics/blob/main/install_sshfs.md)
