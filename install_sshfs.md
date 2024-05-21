@@ -1,6 +1,6 @@
 # Setting up SSHFS on Mac OS 
 
-Over time, the list of steps to set up SSHFS to access remote file systems has changed. Here are some steps that worked for me:
+Over time, the list of steps to set up SSHFS to access remote file systems has changed. Here are some steps that worked for me (as of May 2024):
 1. Install Homebrew via
    - `$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
    - <a href = "https://mac.install.guide/homebrew/3">More homebrew installation instructions</a>
