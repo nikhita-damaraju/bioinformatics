@@ -6,8 +6,6 @@ Over time, the list of steps to set up SSHFS to access remote file systems has c
 2. Install MacFuse via https://osxfuse.github.io
 3. Restart your Mac
 4. Install SSHFS:
-- `git clone --branch 2.9@monterey git@github.com:eengstrom/sshfs.git`
-- `test -e Makefile.in || autoreconf -i`
 - `brew install gromgit/fuse/sshfs-mac`
 
 
