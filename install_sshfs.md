@@ -9,6 +9,8 @@ Over time, the list of steps to set up SSHFS to access remote file systems has c
 3. Restart your Mac
 4. Install SSHFS: `brew install gromgit/fuse/sshfs-mac`. <a href = "https://github.com/osxfuse/osxfuse/issues/781#issuecomment-833421071">Source</a>
 5. Type `which sshfs` to check installation
+6. Usage
+- `sshfs -p <port_ID> remote_file_system_username@IP_address:/folder/ ~/<location_of_folder_on_local_desktop>`
 
 
 
